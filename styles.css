@@ -59,6 +59,8 @@ button{
     cursor: pointer;
     margin-left: 140px;
     font-size: 20px;
+    border: none;
+    outline: none;
 
 }
 
